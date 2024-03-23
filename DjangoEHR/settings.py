@@ -96,7 +96,8 @@ DATABASES = {
         'PORT': '5432',
         'OPTIONS':{'sslmode':'require'},
     }
-}
+} 
+       
 
 
 # Password validation
